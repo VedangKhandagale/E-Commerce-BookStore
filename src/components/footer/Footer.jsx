@@ -43,7 +43,7 @@ function Footer() {
                                 <Link to={'/contact'} className="text-gray-600 hover:text-gray-800" style={{ color: mode === 'dark' ? 'white' : '' }}>Email: vedang0405@gmail.com </Link>
                             </li>
                             <li>
-                                <Link to={'/contact'} className="text-gray-600 hover:text-gray-800" style={{ color: mode === 'dark' ? 'white' : '' }}>Phone no : 9096163489 </Link>
+                                <Link to={'/contact'} className="text-gray-600 hover:text-gray-800" style={{ color: mode === 'dark' ? 'white' : '' }}>Phone no : +91 00000 00000 </Link>
                             </li>
                         </nav>
                     </div>
